@@ -19,7 +19,7 @@ UpGrad is a India's largest online higher education company. The main consumer b
 
 We also implemented some functionalities like Carousal, Forms, Pop-up's etc.  
 
-  
+
 ## Authors
 
 - [@Gaurav6291](https://github.com/Gaurav6291)
